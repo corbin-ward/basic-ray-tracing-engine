@@ -18,6 +18,7 @@ set ( SOURCES
     hittable_list.h
     rte.h
     interval.h
+    camera.h
 )
 
 # Executables
