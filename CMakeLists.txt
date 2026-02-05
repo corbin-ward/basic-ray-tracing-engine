@@ -12,6 +12,7 @@ set ( SOURCES
     main.cpp
     vec3.h
     color.h
+    ray.h
 )
 
 # Executables
