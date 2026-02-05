@@ -10,6 +10,8 @@ set ( CMAKE_CXX_EXTENSIONS        OFF )
 # Source files
 set ( SOURCES
     main.cpp
+    vec3.h
+    color.h
 )
 
 # Executables
