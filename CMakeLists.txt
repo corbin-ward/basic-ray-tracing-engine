@@ -19,6 +19,7 @@ set ( SOURCES
     rte.h
     interval.h
     camera.h
+    material.h
 )
 
 # Executables
