@@ -13,6 +13,11 @@ set ( SOURCES
     vec3.h
     color.h
     ray.h
+    hittable.h
+    sphere.h
+    hittable_list.h
+    rte.h
+    interval.h
 )
 
 # Executables
